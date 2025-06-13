@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-# Vive-Coding-Trial
-바이브코딩으로 하루에 프로덕트 하나씩 개발하는 프로젝트입니다.
-
-기존 바이브코딩의 한계점을 2% 더 잘 개선하는 것이 목표입니다.
-
 ## Notion2PDF
 
 이 프로젝트는 [Next.js](https://nextjs.org)로 개발되었으며 [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app)을 사용하여 부트스트랩되었습니다.
@@ -42,9 +36,3 @@ Next.js에 대해 더 알아보려면 다음 리소스를 확인하세요:
 Next.js 앱을 배포하는 가장 쉬운 방법은 Next.js의 제작자인 [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme)을 사용하는 것입니다.
 
 자세한 내용은 [Next.js 배포 문서](https://nextjs.org/docs/app/building-your-application/deploying)를 확인하세요.
-=======
-# Vibe-Coding-Trial
-바이브코딩으로 하루에 프로덕트 하나씩 개발하는 프로젝트입니다.
-
-기존 바이브코딩의 한계점을 2% 더 잘 개선하는 것이 목표입니다.
->>>>>>> 7fc4ace820b58e432e5282d3324f70c3f100836a
